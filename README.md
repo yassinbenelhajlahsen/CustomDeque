@@ -70,5 +70,5 @@ System.out.println(deque.getFirst()); // Output: world
 
 **Yassin Benelhajlahsen**  
 Brooklyn College, Computer Science Major  
-📧 Email: yassinbenelhajlahsen@gmail.com 
+yassinbenelhajlahsen@gmail.com 
 
